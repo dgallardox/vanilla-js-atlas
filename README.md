@@ -1,3 +1,5 @@
+Live site: [bit.ly/vanilla-headless](http://bit.ly/vanilla-headless)
+
 ***How to create a vanilla headless site***
 
 1. Create your HTML, CSS, JS website locally
