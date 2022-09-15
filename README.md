@@ -1,4 +1,4 @@
-Live site: [bit.ly/vanilla-headless](http://bit.ly/vanilla-headless)
+***Live site:*** [bit.ly/vanilla-headless](http://bit.ly/vanilla-headless)
 
 ***How to create a vanilla headless site***
 
